@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: flex;
+}
+
+.nav{
+    display: flex;
+}
+
+.box1{
+    width: 20%;
+}
+
+.box2{
+    width: 20%;
+}
+
+.box3{
+    width: 20%;
+}
+
+.box4{
+    width: 20%;
+}
+
+.box5{
+    width: 20%;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1 ul{
+    justify-content: center;
+    align-items: center;
+}
